@@ -1,0 +1,6 @@
+{
+  "feed": "/absolute/path/to/your-feed",
+  "account_tag": "YOUR_ACCOUNT_TAG",
+  "timezone": "UTC",
+  "conversations": {}
+}
